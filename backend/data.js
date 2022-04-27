@@ -11,6 +11,7 @@ const data = {
             rating: 4.5,
             numReviews: 10,
             description: 'high quality shirt',
+            id: 1,
         },
         {
             name: 'Adidas Fit Shirt',
@@ -23,6 +24,7 @@ const data = {
             rating: 4.0,
             numReviews: 10,
             description: 'high quality product',
+            id: 2,
         },
         {
             name: 'Nike Slim Pant',
@@ -35,6 +37,7 @@ const data = {
             rating: 4.5,
             numReviews: 14,
             description: 'high quality product',
+            id: 3,
         },
         {
             name: 'Adidas Fit Pant',
@@ -47,6 +50,7 @@ const data = {
             rating: 4.5,
             numReviews: 10,
             description: 'high quality product',
+            id: 4,
         },
         {
             name: 'Nike Slim shirt',
@@ -59,6 +63,7 @@ const data = {
             rating: 4.5,
             numReviews: 10,
             description: 'high quality shirt',
+            id: 5,
         },
         {
             name: 'Adidas Fit Shirt',
@@ -71,6 +76,7 @@ const data = {
             rating: 4.0,
             numReviews: 10,
             description: 'high quality product',
+            id: 6,
         },
     ],
 };

@@ -1,5 +1,5 @@
 import express from "express";
-import data from './data.js';
+import data from './data.js'
 
 const port = process.env.port || 3000;
 const server = express();
