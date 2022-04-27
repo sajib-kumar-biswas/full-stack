@@ -47,7 +47,7 @@ const Card = ({item}) => {
     return (
         <Container>
             <ImageContainer>
-                <Image src={item.img} />
+                <Image src={item.image} />
             </ImageContainer>
             <Title>{item.title}</Title>
             <Review>
